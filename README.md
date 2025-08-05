@@ -1,6 +1,6 @@
 # Generative AI Foundations: Coursework & Resources
 
-![Generative AI Banner](https://imgur.com/gallery/generative-skills-ai-VEPpfHL#WNRGstB)
+![Generative AI Banner]()
 
 > This repository contains my personal notes, prompt cheatsheets, and study materials from the "Generative AI Foundations" course. The aim is to consolidate the key concepts, frameworks, and practical applications learned throughout the modules, serving as a comprehensive resource for mastering Generative AI and advanced prompting techniques.
 
